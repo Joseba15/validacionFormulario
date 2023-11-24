@@ -1,0 +1,18 @@
+#container{
+    align-content: center;
+
+}
+
+input:invalid {
+    border: 1px solid red;
+}
+
+small{
+    color: red;
+    font-size: small;
+}
+
+div{
+    align-content: center;
+    margin-bottom: 20px;
+}
